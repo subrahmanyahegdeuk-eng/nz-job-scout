@@ -2,3 +2,5 @@ streamlit
 smolagents
 openai
 ddgs
+requests
+beautifulsoup4
